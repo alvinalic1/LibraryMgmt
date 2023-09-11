@@ -1,2 +1,3 @@
 Catalog txt file
 This is a new line
+Remote change to this line
